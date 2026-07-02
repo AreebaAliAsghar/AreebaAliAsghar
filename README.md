@@ -82,61 +82,6 @@ Actively seeking internship and entry-level opportunities in **Data Science, Dat
 
 <br/>
 
-## Featured Work
-
-<table>
-<tr><th align="left">Project</th><th align="left">Summary</th></tr>
-<tr>
-<td><b>Panoptix AI</b><br/><sub>Final Year Project — in progress</sub></td>
-<td>AI-powered surveillance analytics layer on Punjab's Safe Cities camera network — real-time tracking, re-identification, and forensic indexing using YOLOv8, ByteTrack, OSNet, ArcFace, and FAISS</td>
-</tr>
-<tr>
-<td><b>Automated Misinformation Credibility Detection</b></td>
-<td>NLP pipeline using DistilBERT and Sentence-BERT to assess content credibility, deployed with Streamlit</td>
-</tr>
-<tr>
-<td><b>Term Deposit Subscription Prediction</b></td>
-<td>Random Forest classifier with SHAP-based explainability for marketing campaign outcomes</td>
-</tr>
-<tr>
-<td><b>Power BI Dashboard for Retail Insights</b></td>
-<td>Interactive retail analytics dashboard for sales and inventory performance</td>
-</tr>
-<tr>
-<td><b>Data Warehouse & BI Project</b></td>
-<td>End-to-end ETL and warehousing pipeline built with SSIS, SSAS, and SSMS</td>
-</tr>
-<tr>
-<td><b>Customer Segmentation</b></td>
-<td>Unsupervised clustering for customer behavior analysis</td>
-</tr>
-<tr>
-<td><b>House Price Prediction</b></td>
-<td>Regression models for real-estate price estimation</td>
-</tr>
-<tr>
-<td><b>SQL-Based Analysis of Product Sales</b></td>
-<td>Sales performance analysis using advanced SQL querying</td>
-</tr>
-</table>
-
-<div align="center"><sub>30+ repositories available on the <a href="https://github.com/AreebaAliAsghar?tab=repositories">repositories tab</a></sub></div>
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AreebaAliAsghar&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1e3a5f&icon_color=2c5f7c"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaAliAsghar&layout=compact&hide_border=true&title_color=1e3a5f"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaAliAsghar&hide_border=true&background=ffffff&ring=2c5f7c&fire=1e3a5f"/>
-</div>
-
-<br/>
-
 ## Contact
 
 <div align="center">
