@@ -9,5 +9,4 @@ GitHub: https://github.com/AreebaAliAsghar
 * 👀 I'm currently working on my final year project.
 * 💼 Experience: Data Analytics Intern @ DevelopersHub Corporation (Remote) · Data Analytics Intern @ Elevo Path (Remote)
 * 🎓 Final-year BS Computer Science (Data Science) student, University of the Punjab, Lahore
-* 📊 Check out my repositories: https://github.com/AreebaAliAsghar?tab=repositories
-* ✊️ Open to Data Science, Data Analytics, and AI/ML internship & entry-level roles
+
