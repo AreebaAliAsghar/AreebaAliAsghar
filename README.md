@@ -1,4 +1,5 @@
-## Assalam o Alaikum, I'm Areeba Ali.
+Assalam o Alaikum, I'm Areeba Ali. 👋
+
 
 Final-year BS Computer Science (Data Science) student at the Faculty of Computing & Information Technology, University of the Punjab (PU), Lahore, Pakistan. My work centers on applied machine learning, predictive analytics, and data-driven decision-making, with hands-on experience spanning classification, clustering, time series forecasting, and exploratory data analysis.
 
