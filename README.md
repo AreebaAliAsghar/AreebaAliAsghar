@@ -1,4 +1,5 @@
-Assalam o Alaikum, I'm Areeba Ali.
+## Assalam o Alaikum, I'm Areeba Ali.
+
 Final-year BS Computer Science (Data Science) student at the Faculty of Computing & Information Technology, University of the Punjab (PU), Lahore, Pakistan. My work centers on applied machine learning, predictive analytics, and data-driven decision-making, with hands-on experience spanning classification, clustering, time series forecasting, and exploratory data analysis.
 
 With two remote Data Analytics internship experiences and a growing portfolio of 30+ public repositories, I had built end-to-end ML pipelines, optimized SQL-driven analyses, and business intelligence dashboards that translate raw data into decisions for both technical and non-technical stakeholders. Her toolkit spans Python (scikit-learn, PyTorch, XGBoost, Prophet), SQL, Power BI, and deployment frameworks such as FastAPI and Docker, with additional focus on NLP, computer vision, and model explainability (SHAP, FAISS).
